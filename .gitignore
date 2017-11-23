@@ -1,0 +1,8 @@
+# Packages
+node_modules/
+
+# Authentication
+credentials.json
+
+# Miscellaneous
+GeForce Experience.sublime-workspace

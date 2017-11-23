@@ -1,0 +1,7 @@
+site_name: Moderation Discord Bot
+repo_url: https://github.com/Marathxnz/ModerationBot
+pages:
+    - Home: index.md
+    - Setup: setup.md
+    - Commands: commands.md
+theme: readthedocs
